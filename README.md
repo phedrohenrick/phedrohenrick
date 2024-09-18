@@ -3,7 +3,7 @@
 I am a web developer, seeking new opportunities. With a passion for technology, English, and music, I am always searching, studying and expanding my knowledge field.
 
 
-Do u wanna see some nice tech projects and listen to some good music? take a look at 
+Do you wanna see some nice tech projects and listen to some good music? take a look at 
 
 [![](https://camo.githubusercontent.com/1d99d2f4757a77c9fc08c04c545eaa8cfaa263b9809878755f97ffc390cc9c10/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465
 )](https://www.linkedin.com/in/phedro-henrick-da-silva-le%C3%A3o-b13b96234/)
