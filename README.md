@@ -49,6 +49,6 @@ DevOps:
 )]()
 
 
-### 📊 GitHub Stats:
+### 📊GitHub Stats:
 
 ![phedrohenrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=phedrohenrick&show_icons=true&theme=tokyonight)
