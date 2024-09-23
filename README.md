@@ -1,7 +1,6 @@
-### Hey there! I am Phedro Henrick😃✋
+### Hey there! I am Phedro Henrick😃✋ 
 
 I am a web developer, seeking new opportunities. With a passion for technology, English, and music, I am always searching, studying and expanding my knowledge field.
-
 
 Do you wanna see some nice tech projects and listen to some good music? take a look at 
 
