@@ -9,6 +9,8 @@ Do you wanna see some nice tech projects and listen to some good music? take a l
 )](https://open.spotify.com/playlist/31WmLf9F6otfcqq7U0UhvV?si=30e2639e52d948ad)
 [![[]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/asking_dev/)
+[![[]](https://camo.githubusercontent.com/ca37c479138ad84282fa843052c592fb890dfb3b678d87b6bb9a3f6a979bc040/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465
+)](https://www.phedrohenrick-portifolio.com.br/)
 
 Languages:
 
@@ -44,7 +46,7 @@ DevOps:
 
 [![[]](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 )]()
-
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊GitHub Stats:
 
