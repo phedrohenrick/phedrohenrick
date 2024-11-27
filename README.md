@@ -4,7 +4,6 @@ I am a web developer, seeking new opportunities. With a passion for technology, 
 
 Do you wanna see some nice tech projects and listen to some good music? take a look at 
 
-
 [![[]](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
 )](https://open.spotify.com/playlist/31WmLf9F6otfcqq7U0UhvV?si=30e2639e52d948ad)
 [![[]](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
